@@ -1,0 +1,16 @@
+.horizontal-links {
+    list-style: none;
+    padding: 0;
+    display: flex; /* Display the list items in a row */
+}
+
+.horizontal-links li {
+    margin-left: 150px; /* Add spacing between the links */
+    margin-bottom: 0px;
+}
+
+.horizontal-links a {
+    text-decoration: none;
+    color: #333; /* Link color */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
